@@ -1,0 +1,41 @@
+body {
+	text-align: center;
+	background-color: white;
+	font-family: 'Roboto', sans-serif;
+}
+h1 {
+	font-family: 'Abril Fatface', cursive;
+}
+h2 {
+	font-family: 'Abril Fatface', cursive;
+}
+
+.banner-img {
+	height: 100px;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	border: 0px;
+}
+.recipe-img {
+	height: 200px;
+}
+.recipe-flex {
+	display: flex;
+	justify-content: space-around;
+}
+.recipe-flex-index {
+	display: flex;
+	justify-content: space-around;
+	padding: 0;
+	margin: 0;
+	border:0;
+}
+.recipe-left {
+	text-align: left;
+}
+.recipe-style {
+	background-color: white;
+	padding: 10px 150px;
+	text-align: center;
+}
